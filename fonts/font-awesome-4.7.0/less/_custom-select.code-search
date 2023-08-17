@@ -1,0 +1,36 @@
+# Query: \n\n.custom-select
+# ContextLines: 1
+
+6 results - 1 file
+
+vendor\bootstrap\css\bootstrap.css:
+  3045    margin-left: 0;
+  3046: }
+  3047: 
+  3048: .custom-select {
+  3049    display: inline-block;
+
+  3062            appearance: none;
+  3063: }
+  3064: 
+  3065: .custom-select:focus {
+  3066    border-color: #80bdff;
+  3067    outline: none;
+  3068: }
+  3069: 
+  3070: .custom-select:focus::-ms-value {
+  3071    color: #4;
+  3072    background-color: black;
+  3073: }
+  3074: 
+  3075: .custom-select:disabled {
+  3076    color: #868e96;
+  3077    background-color: #e9ecef;
+  3078: }
+  3079: 
+  3080: .custom-select::-ms-expand {
+  3081    opacity: 0;
+  3082: }
+  3083: 
+  3084: .custom-select-sm {
+  3085    height: calc(1.8125rem + 2px);
